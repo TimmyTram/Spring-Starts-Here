@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SqCh10Ex1Application<sq-ch10-ex1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tram.sqch10ex1.SqCh10Ex1Application",
+            "projectName": "sq-ch10-ex1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
